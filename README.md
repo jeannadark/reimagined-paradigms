@@ -108,3 +108,4 @@ The elapsed time will also get printed at the end of processing.
 In case of single-threaded mode, ``single_pixelizer`` is called and it shall display progress chunk-by-chunk until nothing is left in ``self.boxes``.
 5. ``processor`` shall return the final fully processed ``self.pixelated_image``, which will be saved as ``result.jpg`` in ``main``. Elapsed time is then printed.
 
+This code may only be used for study purposes and all the copyright belongs to the author.
